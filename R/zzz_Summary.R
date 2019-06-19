@@ -188,7 +188,6 @@ unique.antsImage = function(x, incomparables = FALSE, ..., mask) {
 #' sd(img)
 #' @export
 sd.antsImage = function(x, mask=NULL, na.rm=FALSE) {
-  print("sd.antsImage")
   #args = list(...)
   #mask = args$mask
   #args$mask = NULL
